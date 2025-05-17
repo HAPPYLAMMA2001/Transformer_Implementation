@@ -1,0 +1,802 @@
+{
+    "0": {
+        "en": "The orphaned relative .",
+        "ur": "قرابت دار یتیم کو ۔"
+    },
+    "1": {
+        "en": "Or the poverty - stricken destitute who is just rundown ( and homeless ) .",
+        "ur": "یا شدید غربت کے مارے ہوئے محتاج کو جو محض خاک نشین اور بے گھر ہے ۔"
+    },
+    "2": {
+        "en": "( Provided this striving soul is ) one of those who believe and advise one another patience and tolerance and urge one another for mutual affection and mercy .",
+        "ur": "پھر شرط یہ ہے کہ ایسی جد و جہد کرنے والا وہ شخص ان لوگوں میں سے ہو جو ایمان لائے ہیں اور ایک دوسرے کو صبر و تحمل کی نصیحت کرتے ہیں اور باہم رحمت و شفقت کی تاکید کرتے ہیں ۔"
+    },
+    "3": {
+        "en": "These are the people of the Right Hand ( the privileged and the pardoned ) .",
+        "ur": "یہی لوگ دائیں طرف والے یعنی اہل سعادت و مغفرت ہیں ۔"
+    },
+    "4": {
+        "en": "And those who reject Our Signs are the people of the Left Hand ( the callous and the doomed ) .",
+        "ur": "اور جن لوگوں نے ہماری آیتوں کا انکار کیا وہ بائیں طرف والے ہیں یعنی اہل شقاوت و عذاب ہیں ۔"
+    },
+    "5": {
+        "en": "Fire will be enclosed upon them ( covering from all sides ) .",
+        "ur": "ان پر ہر طرف سے بند کی ہوئی آگ چھائی ہوگی ۔"
+    },
+    "6": {
+        "en": "By the sun and by its brightness .",
+        "ur": "سورج کی قسم اور اس کی روشنی کی قسم ۔"
+    },
+    "7": {
+        "en": "And by the moon when it follows the sun ( reflects sunshine ) .",
+        "ur": "اور چاند کی قسم جب وہ سورج کی پیروی کرے یعنی اس کی روشنی سے چمکے ۔"
+    },
+    "8": {
+        "en": "And by the day when it displays the sun ( brings it forth shining ) .",
+        "ur": "اور دن کی قسم جب وہ سورج کو ظاہر کرے یعنی اسے روشن دکھائے ۔"
+    },
+    "9": {
+        "en": "And by the night when it draws a veil over the sun ( from one of the hemispheres of the earth ) .",
+        "ur": "اور رات کی قسم جب وہ سورج کو زمین کی ایک سمت سے ڈھانپ لے ۔"
+    },
+    "10": {
+        "en": "And by the heaven and by that ( energy ) which built it ( with Allahs permission in the form of a vast universe ) .",
+        "ur": "اور آسمان کی قسم اور اس قوت کی قسم جس نے اسے اذن الٰہی سے ایک وسیع کائنات کی شکل میں تعمیر کیا ۔"
+    },
+    "11": {
+        "en": "And by the earth and by that ( force which , by Allahs Command , ) pulled it ( from the sun far ) apart .",
+        "ur": "اور زمین کی قسم اور اس قوت کی قسم جو اسے امر الٰہی سے سورج سے کھینچ دور لے گئی ۔"
+    },
+    "12": {
+        "en": "And by the human soul and by the One Who provided it with an all - dimensional poise , proportion and perfection .",
+        "ur": "اور انسانی جان کی قسم اور اسے ہمہ پہلو توازن و درستگی دینے والے کی قسم ۔"
+    },
+    "13": {
+        "en": "Then He inspired it with ( discrimination between ) vice and virtue .",
+        "ur": "پھر اس نے اسے اس کی بدکاری اور پرہیزگاری کی تمیز سمجھا دی ۔"
+    },
+    "14": {
+        "en": "Indeed the one who purifies his ( ill - commanding ) self ( from all vain and vicious desires and cultivates in it virtue and piousness ) succeeds .",
+        "ur": "بیشک وہ شخص فلاح پا گیا جس نے اس نفس کو رذائل سے پاک کر لیا اور اس میں نیکی کی نشو و نما کی ۔"
+    },
+    "15": {
+        "en": "But the one who corrupts himself ( in sins and suppresses virtue ) is doomed indeed .",
+        "ur": "اور بیشک وہ شخص نامراد ہوگیا جس نے اسے گناہوں میں ملوث کر لیا اور نیکی کو دبا دیا ۔"
+    },
+    "16": {
+        "en": "The people of Thamud rejected ( their Messenger Salih ) due to their rebellion .",
+        "ur": "ثمود نے اپنی سرکشی کے باعث اپنے پیغمبر صالح علیہ السلام کو جھٹلایا ۔"
+    },
+    "17": {
+        "en": "When the most wretched of them stood up .",
+        "ur": "جبکہ ان میں سے ایک بڑا بد بخت اٹھا ۔"
+    },
+    "18": {
+        "en": "Allahs Messenger said to them : Guard ( that ) she - camel and ( the time of ) her taking water .",
+        "ur": "ان سے اﷲ کے رسول نے فرمایا : اﷲ کی اس اونٹنی اور اس کو پانی پلانے کے دن کی حفاظت کرنا ۔"
+    },
+    "19": {
+        "en": "But they rejected the Messenger and hamstrung ( the she - camel ) . So because of their sin their Lord sent down destruction on them and levelled ( them all in the torment devastating ) the town .",
+        "ur": "تو انہوں نے اس رسول کو جھٹلا دیا ، پھر اس اونٹنی کی کونچیں کاٹ ڈالیں تو ان کے رب نے ان کے گناہ کی وجہ سے ان پر ہلاکت نازل کر دی ، پھر پوری بستی کو تباہ کر کے عذاب میں سب کو برابر کر دیا ۔"
+    },
+    "20": {
+        "en": "And Allah does not fear any repercussions of this ( devastation ) .",
+        "ur": "اور اﷲ کو اس ہلاکت کے انجام کا کوئی خوف نہیں ہوتا ۔"
+    },
+    "21": {
+        "en": "By the night when it covers up ( and conceals everything in its darkness ) .",
+        "ur": "رات کی قسم جب وہ چھا جائے اور ہر چیز کو اپنی تاریکی میں چھپا لے ۔"
+    },
+    "22": {
+        "en": "And by the day when it brightens up .",
+        "ur": "اور دن کی قسم جب وہ چمک اٹھے ۔"
+    },
+    "23": {
+        "en": "And by that Being Who created male and female ( in everything ) .",
+        "ur": "اور اس ذات کی قسم جس نے ہر چیز میں نر اور مادہ کو پیدا فرمایا ۔"
+    },
+    "24": {
+        "en": "Indeed your striving is different ( and singular ) .",
+        "ur": "بیشک تمہاری کوشش مختلف اور جداگانہ ہے ۔"
+    },
+    "25": {
+        "en": "So he who gives away ( his wealth in the way of Allah ) and commits himself to piousness .",
+        "ur": "پس جس نے اپنا مال اﷲ کی راہ میں دیا اور پرہیزگاری اختیار کی ۔"
+    },
+    "26": {
+        "en": "And affirms good ( Din [ Religion ] ) of Truth and life after death through charity and Godwariness ) .",
+        "ur": "اور اس نے انفاق و تقوٰی کے ذریعے اچھائی یعنی دین حق اور آخرت کی تصدیق کی ۔"
+    },
+    "27": {
+        "en": "Soon We shall facilitate him in seeking ( Allahs pleasure ) with ease .",
+        "ur": "تو ہم عنقریب اسے آسانی یعنی رضائے الٰہی کے لئے سہولت فراہم کر دیں گے ۔"
+    },
+    "28": {
+        "en": "But he who is miser and disregards ( spending in the cause of Allah ) .",
+        "ur": "اور جس نے بخل کیا اور راہ حق میں مال خرچ کرنے سے بے پروا رہا ۔"
+    },
+    "29": {
+        "en": "And ( in this way ) belies good ( Din [ Religion ] ) of Truth and life after death ) .",
+        "ur": "اور اس نے یوں اچھائی یعنی دین حق اور آخرت کو جھٹلایا ۔"
+    },
+    "30": {
+        "en": "Soon shall We facilitate him landing into hardship ( advancing towards torment , so that punishment becomes his rightful due ) .",
+        "ur": "تو ہم عنقریب اسے سختی یعنی عذاب کی طرف بڑھنے کے لئے سہولت فراہم کر دیں گے تاکہ وہ تیزی سے مستحق عذاب ٹھہرے ۔"
+    },
+    "31": {
+        "en": "And his wealth will not help him any way when he falls into ( the pit of ) destruction .",
+        "ur": "اور اس کا مال اس کے کسی کام نہیں آئے گا جب وہ ہلاکت کے گڑھے میں گرے گا ۔"
+    },
+    "32": {
+        "en": "Indeed it is binding on Us to show you the path ( of Truth ) .",
+        "ur": "بیشک راہ حق دکھانا ہمارے ذمہ ہے ۔"
+    },
+    "33": {
+        "en": "And indeed We are the Master of the Hereafter and the world .",
+        "ur": "اور بیشک ہم ہی آخرت اور دنیا کے مالک ہیں ۔"
+    },
+    "34": {
+        "en": "So I have warned you of the raging Fire ( of Hell ) .",
+        "ur": "سو میں نے تمہیں دوزخ کی آگ سے ڈرا دیا ہے جو بھڑک رہی ہے ۔"
+    },
+    "35": {
+        "en": "No one but only the most wretched shall enter it .",
+        "ur": "جس میں انتہائی بدبخت کے سوا کوئی داخل نہیں ہوگا ۔"
+    },
+    "36": {
+        "en": "Who denies ( Din [ Religion ] of Truth ) and turns away ( from obedience to the Messenger [ blessings and peace be upon him ] ) .",
+        "ur": "جس نے دین حق کو جھٹلایا اور رسول کی اطاعت سے منہ پھیر لیا ۔"
+    },
+    "37": {
+        "en": "But the most pious shall be saved from this ( Fire ) .",
+        "ur": "اور اس آگ سے اس بڑے پرہیزگار شخص کو بچا لیا جائے گا ۔"
+    },
+    "38": {
+        "en": "Who gives his wealth away ( in the cause of Allah ) to attain to purity ( of his soul and assets ) .",
+        "ur": "جو اپنا مال اﷲ کی راہ میں دیتا ہے کہ اپنے جان و مال کی پاکیزگی حاصل کرے ۔"
+    },
+    "39": {
+        "en": "And who owes no favour to anyone that he is seeking to pay back .",
+        "ur": "اور کسی کا اس پر کوئی احسان نہیں کہ جس کا بدلہ دیا جا رہا ہو ۔"
+    },
+    "40": {
+        "en": "Rather ( he spends ) seeking the pleasure of his Lord , Most High .",
+        "ur": "مگر وہ صرف اپنے رب عظیم کی رضا جوئی کے لئے مال خرچ کر رہا ہے ۔"
+    },
+    "41": {
+        "en": "And soon shall he be well - pleased ( with Allah for His bestowal and Allah with him for his fidelity ) .",
+        "ur": "اور عنقریب وہ اﷲ کی عطا سے اور اﷲ اس کی وفا سے راضی ہو جائے گا"
+    },
+    "42": {
+        "en": "By the growing morning bright ( when the sun gains height and spreads its radiance ) .",
+        "ur": "قسم ہے چاشت کے وقت کی جب آفتاب بلند ہو کر اپنا نور پھیلاتا ہے ۔"
+    },
+    "43": {
+        "en": "And by the night when it covers up .",
+        "ur": "اور قسم ہے رات کی جب وہ چھا جائے ۔"
+    },
+    "44": {
+        "en": "( Ever since He has chosen you , ) your Lord has not forsaken you . Nor is He displeased ( ever since He has taken you as His Beloved ) .",
+        "ur": "آپ کے رب نے جب سے آپ کو منتخب فرمایا ہے آپ کو نہیں چھوڑا اور نہ ہی جب سے آپ کو محبوب بنایا ہے ناراض ہوا ہے ۔"
+    },
+    "45": {
+        "en": "Indeed every following hour is a better ( source of eminence and exaltation ) for you than the preceding one .",
+        "ur": "اور بیشک ہر بعد کی گھڑی آپ کے لئے پہلے سے بہتر یعنی باعث عظمت و رفعت ہے ۔"
+    },
+    "46": {
+        "en": "And soon your Lord shall bestow upon you ( so much ) that you will be well - pleased .",
+        "ur": "اور آپ کا رب عنقریب آپ کو اتنا کچھ عطا فرمائے گا کہ آپ راضی ہو جائیں گے ۔"
+    },
+    "47": {
+        "en": "( O Beloved ! ) Did He not find you an orphan , and then provided you ( a dignifying and graceful ) abode ?",
+        "ur": "اے حبیب ! کیا اس نے آپ کو یتیم نہیں پایا پھر اس نے آپ کو معزز و مکرم ٹھکانا دیا ۔ یا - کیا اس نے آپ کو مہربان نہیں پایا پھر اس نے آپ کے ذریعے یتیموں کو ٹھکانا دیا ۔"
+    },
+    "48": {
+        "en": "And He found you engrossed and lost in His love and then made you achieve the coveted objective .",
+        "ur": "اور اس نے آپ کو اپنی محبت میں خود رفتہ و گم پایا تو اس نے مقصود تک پہنچا دیا ۔ یا - اور اس نے آپ کو بھٹکی ہوئی قوم کے درمیان رہنمائی فرمانے والا پایا تو اس نے انہیں آپ کے ذریعے ہدایت دے دی ۔ ۔"
+    },
+    "49": {
+        "en": "And He found you seeking ( union with your Lord ) and ( then blessed you with the pleasure of His sight and ) freed you of every need ( forever ) .",
+        "ur": "اور اس نے آپ کو وصال حق کا حاجت مند پایا تو اس نے اپنی لذت دید سے نواز کر ہمیشہ کے لئے ہر طلب سے بے نیاز کر دیا ۔ یا : - اور اس نے آپ کو جواد و کریم پایا تو اس نے آپ کے ذریعے محتاجوں کو غنی کر دیا ۔ ۔"
+    },
+    "50": {
+        "en": "So , never should you be strict with any orphan .",
+        "ur": "سو آپ بھی کسی یتیم پر سختی نہ فرمائیں ۔"
+    },
+    "51": {
+        "en": "Nor reproach any beggar ( seeking help at your door ) .",
+        "ur": "اور اپنے در کے کسی منگتے کو نہ جھڑکیں ۔"
+    },
+    "52": {
+        "en": "And proclaim ( well ) the bounties of your Lord .",
+        "ur": "اور اپنے رب کی نعمتوں کا خوب تذکرہ کریں ۔"
+    },
+    "53": {
+        "en": "Have We not broadened your breast for you ( for the light of knowledge , wisdom and spiritual gnosis ) ?",
+        "ur": "کیا ہم نے آپ کی خاطر آپ کا سینہ انوار علم و حکمت اور معرفت کے لئے کشادہ نہیں فرما دیا ۔"
+    },
+    "54": {
+        "en": "And We have taken off the load ( of grief of the Umma [ Community ] ) from you .",
+        "ur": "اور ہم نے آپ کا غم امت کا وہ بار آپ سے اتار دیا ۔"
+    },
+    "55": {
+        "en": "( The load ) which was growing heavier on your ( holy ) back .",
+        "ur": "جو آپ کی پشت مبارک پر گراں ہو رہا تھا ۔"
+    },
+    "56": {
+        "en": "And We exalted for you your remembrance ( by annexing it to Ours everywhere in the world and in the Hereafter ) .",
+        "ur": "اور ہم نے آپ کی خاطر آپ کا ذکر اپنے ذکر کے ساتھ ملا کر دنیا و آخرت میں ہر جگہ بلند فرما دیا ۔"
+    },
+    "57": {
+        "en": "So surely ease ( comes ) with every hardship .",
+        "ur": "سو بیشک ہر دشواری کے ساتھ آسانی آتی ہے ۔"
+    },
+    "58": {
+        "en": "Verily , with ( this ) hardship ( too ) there is ease .",
+        "ur": "یقینا اس دشواری کے ساتھ آسانی بھی ہے ۔"
+    },
+    "59": {
+        "en": "So when you are free ( from educating the Umma ( Community ) , preaching Din ( Religion ) and fighting , and fulfilling your responsibilities ) then strive hard ( in remembrance and worship of your Lord ) .",
+        "ur": "پس جب آپ تعلیم امت ، تبلیغ و جہاد اور ادائیگی فرائض سے فارغ ہوں تو ذکر و عبادت میں محنت فرمایا کریں ۔"
+    },
+    "60": {
+        "en": "And turn to your Lord earnestly .",
+        "ur": "اور اپنے رب کی طرف راغب ہو جایا کریں ۔"
+    },
+    "61": {
+        "en": "By the fig and by the olive !",
+        "ur": "انجیر کی قسم اور زیتون کی قسم ۔"
+    },
+    "62": {
+        "en": "And by ( Mount ) Tur of Sinai !",
+        "ur": "اور سینا کے پہاڑ طور کی قسم ۔"
+    },
+    "63": {
+        "en": "And by this city of peace ( Makka ) !",
+        "ur": "اور اس امن والے شہر مکہ کی قسم ۔"
+    },
+    "64": {
+        "en": "Indeed We have created man in the best constitution ( equipoised in the finest proportion ) .",
+        "ur": "بیشک ہم نے انسان کو بہترین اعتدال اور توازن والی ساخت میں پیدا فرمایا ہے ۔"
+    },
+    "65": {
+        "en": "Then We returned him to the lowest state of the low .",
+        "ur": "پھر ہم نے اسے پست سے پست تر حالت میں لوٹا دیا ۔"
+    },
+    "66": {
+        "en": "Except for those who believe and do good works . For them is an unending ( everlasting ) reward .",
+        "ur": "سوائے ان لوگوں کے جو ایمان لائے اور نیک عمل کرتے رہے تو ان کے لئے ختم نہ ہونے والا دائمی اجر ہے ۔"
+    },
+    "67": {
+        "en": "Then who denies you after this regarding Din ( Religion or the Last Hour and reward and punishment ) ?",
+        "ur": "پھر اس کے بعد کون ہے جو آپ کو دین یا قیامت اور جزا و سزا کے بارے میں جھٹلاتا ہے ۔"
+    },
+    "68": {
+        "en": "Is not Allah the Greatest of all the sovereigns ?",
+        "ur": "کیا اﷲ سب حاکموں سے بڑا حاکم نہیں ہے ۔"
+    },
+    "69": {
+        "en": "( O Beloved ! ) Read ( commencing ) with the Name of Allah , Who has created ( everything ) .",
+        "ur": "اے حبیب ! اپنے رب کے نام سے آغاز کرتے ہوئے پڑھئے جس نے ہر چیز کو پیدا فرمایا ۔"
+    },
+    "70": {
+        "en": "He created man from a hanging mass ( clinging ) like a leech ( in the mothers womb ) .",
+        "ur": "اس نے انسان کو رحم مادر میں جونک کی طرح معلق وجود سے پیدا کیا ۔"
+    },
+    "71": {
+        "en": "Read and your Lord is Most Generous .",
+        "ur": "پڑھیئے اور آپ کا رب بڑا ہی کریم ہے ۔"
+    },
+    "72": {
+        "en": "Who taught man ( reading and writing ) by the pen .",
+        "ur": "جس نے قلم کے ذریعے لکھنے پڑھنے کا علم سکھایا ۔"
+    },
+    "73": {
+        "en": "Who ( besides that ) taught man ( all that ) which he did not know .",
+        "ur": "جس نے انسان کو اس کے علاوہ بھی وہ کچھ سکھا دیا جو وہ نہیں جانتا تھا ۔ یا - جس نے سب سے بلند رتبہ انسان محمد مصطفی صلی اللہ علیہ وآلہ وسلم کو بغیر ذریعۂ قلم کے وہ سارا علم عطا فرما دیا جو وہ پہلے نہ جانتے تھے ۔"
+    },
+    "74": {
+        "en": "( But ) the fact is that ( the disobedient ) man rebels .",
+        "ur": "مگر حقیقت یہ ہے کہ نافرمان انسان سر کشی کرتا ہے ۔"
+    },
+    "75": {
+        "en": "For the reason that ( apparently ) he finds himself self - sufficient ( in the world ) .",
+        "ur": "اس بنا پر کہ وہ اپنے آپ کو دنیا میں ظاہرا بے نیاز دیکھتا ہے ۔"
+    },
+    "76": {
+        "en": "Surely ( every man ) has to return to your Lord .",
+        "ur": "بیشک ہر انسان کو آپ کے رب ہی کی طرف لوٹنا ہے ۔"
+    },
+    "77": {
+        "en": "Have you seen him who prevents .",
+        "ur": "کیا آپ نے اس شخص کو دیکھا جو منع کرتا ہے ۔"
+    },
+    "78": {
+        "en": "The servant ( of Allah ) when he prays ?",
+        "ur": "اﷲ کے بندے کو جب وہ نماز پڑھتا ہے ۔ یا : - اللہ کے محبوب و برگزیدہ بندے محمد مصطفی صلی اللہ علیہ وآلہ وسلم کو جب وہ نماز پڑھتے ہیں ۔"
+    },
+    "79": {
+        "en": "Well , imagine ! If he had been rightly guided .",
+        "ur": "بھلا دیکھئے تو اگر وہ ہدایت پر ہوتا ۔"
+    },
+    "80": {
+        "en": "Or if he had commanded ( the people ) to be pious ( how beneficial it would have been ) !",
+        "ur": "یا وہ لوگوں کو پرہیزگاری کا حکم دیتا تو کیا خوب ہوتا ۔"
+    },
+    "81": {
+        "en": "But see now , when he has rejected ( the true Din [ Religion ] ) and has turned away ( from you , what torment is he going to face ? )",
+        "ur": "اب بتائیے ! اگر اس نے دین حق کو جھٹلایا ہے اور آپ سے منہ پھیر لیا ہے تو اس کا کیا حشر ہوگا ۔"
+    },
+    "82": {
+        "en": "Does he not know that Allah monitors ( minutely all his conduct ) ?",
+        "ur": "کیا وہ نہیں جانتا کہ اﷲ اس کے سارے کردار کو دیکھ رہا ہے ۔"
+    },
+    "83": {
+        "en": "Beware ! If he does not desist ( from the denigration of the Holy Prophet and antagonism against the true Din [ Religion ] ) , We shall certainly grab his forehead and drag him by the forelock .",
+        "ur": "خبر دار ! اگر وہ گستاخئ رسالت اور دین حق کی عداوت سے باز نہ آیا تو ہم ضرور اسے پیشانی کے بالوں سے پکڑ کر گھسیٹیں گے ۔"
+    },
+    "84": {
+        "en": "His lying ( and ) sinful forehead !",
+        "ur": "وہ پیشانی جو جھوٹی اور خطا کار ہے ۔"
+    },
+    "85": {
+        "en": "Then let him call his companions ( for help ) .",
+        "ur": "پس وہ اپنے ہم نشینوں کو مدد کے لئے بلا لے ۔"
+    },
+    "86": {
+        "en": "We too shall soon call ( Our ) guards ( the angels appointed to inflict the punishment of Hell ) .",
+        "ur": "ہم بھی عنقریب اپنے سپاہیوں یعنی دوزخ کے عذاب پر مقرر فرشتوں کو بلا لیں گے ۔"
+    },
+    "87": {
+        "en": "No indeed ! Do not pay any heed to his doings and , ( O Esteemed Beloved , ) persist in prostration and keep drawing near ( Us more and more ) .",
+        "ur": "ہرگز نہیں ! آپ اس کے کئے کی پرواہ نہ کیجئے ، اور اے حبیب مکرم ! آپ سر بسجود رہئے اور ہم سے مزید قریب ہوتے جائیے ۔"
+    },
+    "88": {
+        "en": "Surely We sent down this ( Holy Quran ) during the Night of Destiny .",
+        "ur": "بیشک ہم نے اس قرآن کو شب قدر میں اتارا ہے ۔"
+    },
+    "89": {
+        "en": "And what have you made out what the Night of Destiny is ?",
+        "ur": "اور آپ کیا سمجھے ہیں کہ شب قدر کیا ہے ۔"
+    },
+    "90": {
+        "en": "The Night of Destiny is better than a thousand months ( in merit of excellence , blessings , reward and recompense ) .",
+        "ur": "شب قدر فضیلت و برکت اور اجر و ثواب میں ہزار مہینوں سے بہتر ہے ۔"
+    },
+    "91": {
+        "en": "The angels and the Spirit of Peace ( Gabriel ) descend by their Lords Command during this ( night ) with decrees concerning all matters ( of blessings and bounties ) .",
+        "ur": "اس رات میں فرشتے اور روح الامین جبرائیل اپنے رب کے حکم سے خیر و برکت کے ہر امر کے ساتھ اترتے ہیں ۔"
+    },
+    "92": {
+        "en": "This ( night ) is ( absolute ) peace and security till daybreak .",
+        "ur": "یہ رات طلوع فجر تک سراسر سلامتی ہے ۔"
+    },
+    "93": {
+        "en": "The disbelievers from among the People of the Book and the idolaters would not desist ( from disbelief ) until clear proof came to them .",
+        "ur": "اہل کتاب میں سے جو لوگ کافر ہو گئے اور مشرکین اس وقت تک کفر سے الگ ہونے والے نہ تھے جب تک ان کے پاس روشن دلیل نہ آجاتی ۔"
+    },
+    "94": {
+        "en": "That ( proof ) is the ( last ) Messenger from Allah , who recites ( to them ) holy pages ( of the Glorious Quran ) .",
+        "ur": "وہ دلیل اﷲ کی طرف سے رسول آخر الزماں صلی اللہ علیہ وآلہ وسلم ہیں جو ان پر پاکیزہ اوراق قرآن کی تلاوت فرماتے ہیں ۔"
+    },
+    "95": {
+        "en": "In which are ( written ) correct and firm Commandments .",
+        "ur": "جن میں درست اور مستحکم احکام درج ہیں ۔"
+    },
+    "96": {
+        "en": "These People of the Book did not dissent among themselves ( with regard to believing in the Prophethood and Messengership of the last Messenger [ Allah bless him and give him peace ] and recognizing his holy status ) , until after the clear proof had come to them ( of the Prophethood of Muhammad [ Allah bless him and give him peace ] .",
+        "ur": "ان اہل کتاب میں نبی آخر الزماں صلی اللہ علیہ وآلہ وسلم کی نبوت و رسالت پر ایمان لانے اور آپ کی شان اقدس کو پہچاننے کے بارے میں پہلے کوئی پھوٹ نہ پڑی تھی مگر اس کے بعد کہ جب بعثت محمدی صلی اللہ علیہ وآلہ وسلم کی روشن دلیل ان کے پاس آگئی"
+    },
+    "97": {
+        "en": "Then , they broke up : some of them accepted belief in him while others became deniers and disbelievers out of jealousy , )",
+        "ur": "تو وہ باہم بٹ گئے کوئی ان پر ایمان لے آیا اور کوئی حسد کے باعث منکر و کافر ہوگیا ۔"
+    },
+    "98": {
+        "en": "Whereas they were commanded to worship only Allah , making their Din ( faith and devotion ) sincerely His ( dissociating from every falsehood ) , to establish Prayer and to pay Zakat ( the Alms - due ) regularly . And this is the straight and firm Din ( Religion ) .",
+        "ur": "حالانکہ انہیں فقط یہی حکم دیا گیا تھا کہ صرف اسی کے لئے اپنے دین کو خالص کرتے ہوئے اﷲ کی عبادت کریں ، ہر باطل سے جدا ہو کر حق کی طرف یک سوئی پیدا کریں اور نماز قائم کریں اور زکوٰۃ دیا کریں اور یہی سیدھا اور مضبوط دین ہے ۔"
+    },
+    "99": {
+        "en": "Indeed those who disbelieve from among the People of the Book and the polytheists ( all ) will be ( abiding ) in the Fire of Hell . They are its permanent dwellers . It is they who are the worst of the Creation .",
+        "ur": "بیشک جو لوگ اہل کتاب میں سے کافر ہوگئے اور مشرکین سب دوزخ کی آگ میں پڑے ہوں گے وہ ہمیشہ اسی میں رہنے والے ہیں ، یہی لوگ بد ترین مخلوق ہیں ۔"
+    },
+    "100": {
+        "en": "Indeed those who believe and keep doing pious actions , it is they who are the best of the Creation .",
+        "ur": "بیشک جو لوگ ایمان لائے اور نیک عمل کرتے رہے وہی لوگ ساری مخلوق سے بہتر ہیں ۔"
+    },
+    "101": {
+        "en": "Their reward is the Gardens of eternal living in the Presence of their Lord , with streams flowing under them . They shall live in them forever . Allah is pleased with them and they are pleased with Him . This ( status ) is meant for the one who fears his Lord .",
+        "ur": "ان کی جزا ان کے رب کے حضور دائمی رہائش کے باغات ہیں جن کے نیچے سے نہریں رواں ہیں ، وہ ان میں ہمیشہ ہمیشہ رہیں گے ، اﷲ ان سے راضی ہوگیا ہے اور وہ لوگ اس سے راضی ہیں ، یہ مقام اس شخص کے لئے ہے جو اپنے رب سے خائف رہا ۔"
+    },
+    "102": {
+        "en": "When the earth will be violently shaken with a high - scale quake .",
+        "ur": "جب زمین اپنے سخت بھونچال سے بڑی شدت کے ساتھ تھرتھرائی جائے گی ۔"
+    },
+    "103": {
+        "en": "And when the earth will throw out ( all ) her burdens .",
+        "ur": "اور زمین اپنے سب بوجھ نکال باہر پھینکے گی ۔"
+    },
+    "104": {
+        "en": "And man ( bewildered and baffled ) will say : What has happened to her ?",
+        "ur": "اور انسان حیران و ششدر ہو کر کہے گا : اسے کیا ہوگیا ہے ۔"
+    },
+    "105": {
+        "en": "On that Day she will herself bring to light her experiences .",
+        "ur": "اس دن وہ اپنے حالات خود ظاہر کر دے گی ۔"
+    },
+    "106": {
+        "en": "For your Lord will have made subservient to her ( the symbolic language of ) sharp signals .",
+        "ur": "اس لئے کہ آپ کے رب نے اس کے لئے تیز اشاروں کی زبان کو مسخر فرما دیا ہوگا ۔"
+    },
+    "107": {
+        "en": "On that Day people will form up in different groups , ( in diverse conditions , ) so that they may be shown their works .",
+        "ur": "اس دن لوگ مختلف گروہ بن کر جدا جدا حالتوں کے ساتھ نکلیں گے تاکہ انہیں ان کے اعمال دکھائے جائیں ۔"
+    },
+    "108": {
+        "en": "Then he who will have done even an atoms weight of good will see it .",
+        "ur": "تو جس نے ذرہ بھر نیکی کی ہوگی وہ اسے دیکھ لے گا ۔"
+    },
+    "109": {
+        "en": "And he who will have done even an atoms weight of evil will ( also ) see it .",
+        "ur": "اور جس نے ذرہ بھر برائی کی ہوگی وہ اسے بھی دیکھ لے گا ۔"
+    },
+    "110": {
+        "en": "By the charging horses that gallop ( in the battlefield ) and pant .",
+        "ur": "میدان جہاد میں تیز دوڑنے والے گھوڑوں کی قسم جو ہانپتے ہیں ۔"
+    },
+    "111": {
+        "en": "And those that produce sparks striking their hoofs on rocks .",
+        "ur": "پھر جو پتھروں پر سم مار کر چنگاریاں نکالتے ہیں ۔"
+    },
+    "112": {
+        "en": "Then they blitz ( the enemy ) at dawn .",
+        "ur": "پھر جو صبح ہوتے ہی دشمن پر اچانک حملہ کر ڈالتے ہیں ۔"
+    },
+    "113": {
+        "en": "And then raise clouds of dust from the point ( of attack ) .",
+        "ur": "پھر وہ اس حملے والی جگہ سے گرد و غبار اڑاتے ہیں ۔"
+    },
+    "114": {
+        "en": "And then simultaneously pierce into ( the enemy ) ranks .",
+        "ur": "پھر وہ اسی وقت دشمن کے لشکر میں گھس جاتے ہیں ۔"
+    },
+    "115": {
+        "en": "Indeed man is most ungrateful to his Lord .",
+        "ur": "بیشک انسان اپنے رب کا بڑا ہی ناشکرا ہے ۔"
+    },
+    "116": {
+        "en": "And verily he is himself a witness to this ingratitude .",
+        "ur": "اور یقینا وہ اس ناشکری پر خود گواہ ہے ۔"
+    },
+    "117": {
+        "en": "And indeed he is quite stubborn in his love of wealth .",
+        "ur": "اور بیشک وہ مال کی محبت میں بہت سخت ہے ۔"
+    },
+    "118": {
+        "en": "But does he not know when those ( dead ) in the graves will be raised .",
+        "ur": "تو کیا اسے معلوم نہیں جب وہ مردے اٹھائے جائیں گے جو قبروں میں ہیں ۔"
+    },
+    "119": {
+        "en": "And secrets which are in hearts will be disclosed ?",
+        "ur": "اور راز ظاہر کر دیئے جائیں گے جو سینوں میں ہیں ۔"
+    },
+    "120": {
+        "en": "Indeed their Lord will be Well Aware of their ( deeds ) on that Day ?",
+        "ur": "بیشک ان کا رب اس دن ان کے اعمال سے خوب خبردار ہوگا ۔"
+    },
+    "121": {
+        "en": "The high - scale jolt rocking ( the whole universe of the heavens and the earth ) and thunder !",
+        "ur": "زمین و آسمان کی ساری کائنات کو کھڑکھڑا دینے والا شدید جھٹکا اور کڑک ۔"
+    },
+    "122": {
+        "en": "And what is that high - scale jolt rocking ( everything ) and that thunder ?",
+        "ur": "وہ ہر شے کو کھڑ کھڑا دینے والا شدید جھٹکا اور کڑک کیا ہے ۔"
+    },
+    "123": {
+        "en": "And what have you made out what the high - scale jolt and thunder implies ?",
+        "ur": "اور آپ کیا سمجھے ہیں کہ ہر شے کو کھڑ کھڑا دینے والے شدید جھٹکے اور کڑک سے مراد کیا ہے ۔"
+    },
+    "124": {
+        "en": "( It implies ) the Day of Resurrection when ( the whole of ) mankind will become like scattered moths .",
+        "ur": "اس سے مراد وہ یوم قیامت ہے جس دن سارے لوگ بکھرے ہوئے پروانوں کی طرح ہو جائیں گے ۔"
+    },
+    "125": {
+        "en": "And the mountains will be like multicoloured carded wool .",
+        "ur": "اور پہاڑ رنگ برنگ دھنکی ہوئی اون کی طرح ہو جائیں گے ۔"
+    },
+    "126": {
+        "en": "So he whose scales of deeds in the balance will be heavy .",
+        "ur": "پس وہ شخص کہ جس کے اعمال کے پلڑے بھاری ہوں گے ۔"
+    },
+    "127": {
+        "en": "He will be in luxury and delight .",
+        "ur": "تو وہ خوش گوار عیش و مسرت میں ہوگا ۔"
+    },
+    "128": {
+        "en": "But as for him whose scales of deeds in the balance will be light .",
+        "ur": "اور جس شخص کے اعمال کے پلڑے ہلکے ہوں گے ۔"
+    },
+    "129": {
+        "en": "His abode will be Hawiya ( a pit in Hell ) !",
+        "ur": "تو اس کا ٹھکانا ہاویہ جہنم کا گڑھا ہوگا ۔"
+    },
+    "130": {
+        "en": "And what have you made out what that ( Hawiya ) is ?",
+        "ur": "اور آپ کیا سمجھے ہیں کہ ہاویہ کیا ہے ۔"
+    },
+    "131": {
+        "en": "It is ( an extremely deep pit of ) the fiercely Blazing Fire ( of Hell ) .",
+        "ur": "وہ جہنم کی سخت دہکتی آگ کا انتہائی گہرا گڑھا ہے ۔"
+    },
+    "132": {
+        "en": "Your greed for massive wealth and the superiority complex has made you negligent ( of the Hereafter ) .",
+        "ur": "تمہیں کثرت مال کی ہوس اور فخر نے آخرت سے غافل کر دیا ۔"
+    },
+    "133": {
+        "en": "Until you go down to the graves .",
+        "ur": "یہاں تک کہ تم قبروں میں جا پہنچے ۔"
+    },
+    "134": {
+        "en": "No indeed ! You will soon learn ( this reality that wealth and riches will avail you nothing ) .",
+        "ur": "ہرگز نہیں ! مال و دولت تمہارے کام نہیں آئیں گے تم عنقریب اس حقیقت کو جان لو گے ۔"
+    },
+    "135": {
+        "en": "Again ( you are warned . ) No ! Never ! You will soon learn about ( your end ) .",
+        "ur": "پھر آگاہ کیا جاتا ہے : ہرگز نہیں ! عنقریب تمہیں اپنا انجام معلوم ہو جائے گا ۔"
+    },
+    "136": {
+        "en": "Yes indeed ! Would that you knew with the knowledge of certitude ( the consequence of greed for wealth and riches and your negligence . Then , lost in the worldly pleasures , you would never forget the Hereafter like this ) .",
+        "ur": "ہاں ہاں ! کاش تم مال و زر کی ہوس اور اپنی غفلت کے انجام کو یقینی علم کے ساتھ جانتے تو دنیا میں کھو کر آخرت کو اس طرح نہ بھولتے ۔"
+    },
+    "137": {
+        "en": "( Consequent on your greed ) you shall surely see Hell .",
+        "ur": "تم اپنی حرص کے نتیجے میں دوزخ کو ضرور دیکھ کر رہو گے ۔"
+    },
+    "138": {
+        "en": "Then you shall certainly see it with the eye of certitude .",
+        "ur": "پھر تم اسے ضرور یقین کی آنکھ سے دیکھ لو گے ۔"
+    },
+    "139": {
+        "en": "Then on that Day you will certainly be questioned about the bounties ( given to you by Allah and the way you consumed them ) .",
+        "ur": "پھر اس دن تم سے اﷲ کی نعمتوں کے بارے میں ضرور پوچھا جائے گا کہ تم نے انہیں کہاں کہاں اور کیسے کیسے خرچ کیا تھا ۔"
+    },
+    "140": {
+        "en": "By the passing time ( whose rotation bears witness to the affairs of mankind ) .",
+        "ur": "زمانہ کی قسم جس کی گردش انسانی حالات پر گواہ ہے ۔ یا - نماز عصر کی قسم کہ وہ سب نمازوں کا وسط ہے ۔ یا - وقت عصر کی قسم جب دن بھر چمکنے والا سورج خود ڈوبنے کا منظر پیش کرتا ہے ۔ یا - زمانۂ بعثت مصطفیٰ صلی اللہ علیہ وآلہ وسلم کی قسم جو سارے زمانوں کا ماحصل اور مقصود ہے ۔"
+    },
+    "141": {
+        "en": "Indeed man is at a loss ( for he is losing his valuable lifetime ) .",
+        "ur": "بیشک انسان خسارے میں ہے کہ وہ عمر عزیز گنوا رہا ہے ۔"
+    },
+    "142": {
+        "en": "Except for those who believe and do good deeds and exhort one another to Truth and exhort one another to patience ( in the face of hardships and afflictions that are faced while preaching the Din [ Religion ] of Truth ) .",
+        "ur": "سوائے ان لوگوں کے جو ایمان لے آئے اور نیک عمل کرتے رہے اور معاشرے میں ایک دوسرے کو حق کی تلقین کرتے رہے اور تبلیغ حق کے نتیجے میں پیش آمدہ مصائب و آلام میں باہم صبر کی تاکید کرتے رہے ۔"
+    },
+    "143": {
+        "en": "Woe to everyone who slanders ( face to face ) and finds fault ( in absence ) !",
+        "ur": "ہر اس شخص کے لئے ہلاکت ہے جو روبرو طعنہ زنی کرنے والا ہے اور پس پشت عیب جوئی کرنے والا ہے ۔"
+    },
+    "144": {
+        "en": "( Woe to him ) who accumulates wealth and keeps counting it !",
+        "ur": "خرابی و تباہی ہے اس شخص کے لئے جس نے مال جمع کیا اور اسے گن گن کر رکھتا ہے ۔"
+    },
+    "145": {
+        "en": "He thinks that his riches will keep him alive forever .",
+        "ur": "وہ یہ گمان کرتا ہے کہ اس کی دولت اسے ہمیشہ زندہ رکھے گی ۔"
+    },
+    "146": {
+        "en": "By no means ! He shall certainly be cast into al - Hutama ( the crushing up Fire ) .",
+        "ur": "ہرگز نہیں ! وہ ضرور حطمہ یعنی چورا چورا کر دینے والی آگ میں پھینک دیا جائے گا ۔"
+    },
+    "147": {
+        "en": "And what will make you understand what al - Hutama is ( the crushing up Fire ) ?",
+        "ur": "اور آپ کیا سمجھے ہیں کہ حطمہ چورا چورا کر دینے والی آگ کیا ہے ۔"
+    },
+    "148": {
+        "en": "( It ) is a fire kindled by Allah .",
+        "ur": "یہ اﷲ کی بھڑکائی ہوئی آگ ہے ۔"
+    },
+    "149": {
+        "en": "That will rise over the hearts ( with its torture ) .",
+        "ur": "جو دلوں پر اپنی اذیت کے ساتھ چڑھ جائے گی ۔"
+    },
+    "150": {
+        "en": "Indeed that ( Fire ) will be closed upon them all around .",
+        "ur": "بیشک وہ آگ ان لوگوں پر ہر طرف سے بند کر دی جائے گی ۔"
+    },
+    "151": {
+        "en": "In towering columns ( of fierce flames and they will not find any way to escape ) .",
+        "ur": "بھڑکتے شعلوں کے لمبے لمبے ستونوں میں اور ان لوگوں کے لئے کوئی راہ فرار نہ رہے گی ۔"
+    },
+    "152": {
+        "en": "Have you not seen how your Lord dealt with those who had elephants ?",
+        "ur": "کیا آپ نے نہیں دیکھا کہ آپ کے رب نے ہاتھی والوں کے ساتھ کیا سلوک کیا ۔"
+    },
+    "153": {
+        "en": "Did He not thwart their crafty designs ?",
+        "ur": "کیا اس نے ان کے مکر و فریب کو باطل و ناکام نہیں کر دیا ۔"
+    },
+    "154": {
+        "en": "And He sent on to them ( ambient ) swarms of birds .",
+        "ur": "اور اس نے ان پر ہر سمت سے پرندوں کے جھنڈ کے جھنڈ بھیج دیئے ۔"
+    },
+    "155": {
+        "en": "Which pelted them with stone - hard slugs .",
+        "ur": "جو ان پر کنکریلے پتھر مارتے تھے ۔"
+    },
+    "156": {
+        "en": "Then ( Allah made them perish ) like chewed - up chaff .",
+        "ur": "پھر اﷲ نے ان کو کھائے ہوئے بھوسے کی طرح پامال کر دیا ۔"
+    },
+    "157": {
+        "en": "To awake drive among the Quraish .",
+        "ur": "قریش کو رغبت دلانے کے سبب سے ۔"
+    },
+    "158": {
+        "en": "They were acclimatized to the summer and winter ( commercial ) trips .",
+        "ur": "انہیں سردیوں اور گرمیوں کے تجارتی سفر سے مانوس کر دیا ۔"
+    },
+    "159": {
+        "en": "So they should worship the Lord of this ( Sacred ) House ( Kaba , to give Him thanks ) .",
+        "ur": "پس انہیں چاہئے کہ اس گھر خانہ کعبہ کے رب کی عبادت کریں تاکہ اس کی شکر گزاری ہو ۔"
+    },
+    "160": {
+        "en": "Who has fed them in hunger ( i . e . provided them sustenance in starving conditions ) and secured them from fear ( of foes i . e . blessed them with secure and peaceful life ) .",
+        "ur": "جس نے انہیں بھوک یعنی فقر و فاقہ کے حالات میں کھانا دیا یعنی رزق فراہم کیا اور دشمنوں کے خوف سے امن بخشا یعنی محفوظ و مامون زندگی سے نوازا ۔"
+    },
+    "161": {
+        "en": "Have you seen him who denies Din ( Religion ) ?",
+        "ur": "کیا آپ نے اس شخص کو دیکھا جو دین کو جھٹلاتا ہے ۔"
+    },
+    "162": {
+        "en": "So he is the one who pushes away the orphan ( i . e . rejects the needs of the orphans and deprives them of their right ) .",
+        "ur": "تو یہ وہ شخص ہے جو یتیم کو دھکے دیتا ہے یعنی یتیموں کی حاجات کو رد کرتا اور انہیں حق سے محروم رکھتا ہے ۔"
+    },
+    "163": {
+        "en": "And does not promote the cause of feeding the poor ( i . e . does not strive to end the economic exploitation of the poor and the needy ) .",
+        "ur": "اور محتاج کو کھانا کھلانے کی ترغیب نہیں دیتا یعنی معاشرے سے غریبوں اور محتاجوں کے معاشی استحصال کے خاتمے کی کوشش نہیں کرتا ۔"
+    },
+    "164": {
+        "en": "So woe to those worshippers .",
+        "ur": "پس افسوس اور خرابی ہے ان نمازیوں کے لئے ۔"
+    },
+    "165": {
+        "en": "Who are unaware of ( the spirit of ) their Prayers ( i . e . they are mindful only of the rights of Allah but are heedless of the rights of fellow human beings ) .",
+        "ur": "جو اپنی نماز کی روح سے بے خبر ہیں یعنی انہیں محض حقوق اﷲ یاد ہیں حقوق العباد بھلا بیٹھے ہیں ۔"
+    },
+    "166": {
+        "en": "Who show off ( their worship , for they only render a formal service to the Creator and are inconsiderate to the oppressed humanity ) .",
+        "ur": "وہ لوگ عبادت میں دکھلاوا کرتے ہیں کیونکہ وہ خالق کی رسمی بندگی بجا لاتے ہیں اور پسی ہوئی مخلوق سے بے پرواہی برت رہے ہیں ۔"
+    },
+    "167": {
+        "en": "And who refuse to lend even a worthless small object of use even on demand !",
+        "ur": "اور وہ برتنے کی معمولی سی چیز بھی مانگے نہیں دیتے ۔"
+    },
+    "168": {
+        "en": "Indeed We have bestowed on you an infinite abundance , ( every kind of superiority , bliss and bounty ) .",
+        "ur": "بیشک ہم نے آپ کو ہر خیر و فضیلت میں بے انتہا کثرت بخشی ہے ۔"
+    },
+    "169": {
+        "en": "So pray to your Lord and offer sacrifice ( a token of gratitude ) .",
+        "ur": "پس آپ اپنے رب کے لئے نماز پڑھا کریں اور قربانی دیا کریں یہ ہدیۂ تشکر ہے ۔"
+    },
+    "170": {
+        "en": "Indeed your enemy will remain childless and his race will be cut off .",
+        "ur": "بیشک آپ کا دشمن ہی بے نسل اور بے نام و نشاں ہوگا ۔"
+    },
+    "171": {
+        "en": "Say : O disbelievers !",
+        "ur": "آپ فرما دیجئے : اے کافرو ! ۔"
+    },
+    "172": {
+        "en": "I do not worship those ( idols ) that you worship .",
+        "ur": "میں ان بتوں کی عبادت نہیں کرتا جنہیں تم پوجتے ہو ۔"
+    },
+    "173": {
+        "en": "Nor do you worship ( the Lord ) Whom I worship .",
+        "ur": "اور نہ تم اس رب کی عبادت کرنے والے ہو جس کی میں عبادت کرتا ہوں ۔"
+    },
+    "174": {
+        "en": "I shall never ( ever ) worship those ( idols ) that you worship .",
+        "ur": "اور نہ ہی میں آئندہ کبھی ان کی عبادت کرنے والا ہوں جن بتوں کی تم پرستش کرتے ہو ۔"
+    },
+    "175": {
+        "en": "Nor shall you ( ever ) worship ( the Lord ) Whom I worship .",
+        "ur": "اور نہ ہی تم اس کی عبادت کرنے والے ہو جس رب کی میں عبادت کرتا ہوں ۔"
+    },
+    "176": {
+        "en": "( So ) you have your Din ( Religion ) and I have my Din ( Religion ) .",
+        "ur": "سو تمہارا دین تمہارے لئے اور میرا دین میرے لئے ہے ۔"
+    },
+    "177": {
+        "en": "When there comes Allahs help and victory .",
+        "ur": "جب اﷲ کی مدد اور فتح آپہنچے ۔"
+    },
+    "178": {
+        "en": "And you see people joining Allahs Din ( Religion ) in droves .",
+        "ur": "اور آپ لوگوں کو دیکھ لیں کہ وہ اﷲ کے دین میں جوق در جوق داخل ہو رہے ہیں ۔"
+    },
+    "179": {
+        "en": "Then hymn Allahs praise ( in gratitude ) , glorifying Him , and beg Him ( humbly ) for pardon . Surely He is Ever - Relenting and Oft - Returning ( with evermore compassion ) .",
+        "ur": "تو آپ تشکرا اپنے رب کی حمد کے ساتھ تسبیح فرمائیں اور تواضعا اس سے استغفار کریں ، بیشک وہ بڑا ہی توبہ قبول فرمانے والا اور مزید رحمت کے ساتھ رجوع فرمانے والا ہے ۔"
+    },
+    "180": {
+        "en": "Perished be the two hands of Abu Lahab and be he perished himself , ( he has pointed his finger to Our Beloved ) !",
+        "ur": "ابولہب کے دونوں ہاتھ ٹوٹ جائیں اور وہ تباہ ہو جائے اس نے ہمارے حبیب پر ہاتھ اٹھانے کی کوشش کی ہے ۔"
+    },
+    "181": {
+        "en": "Neither His ( inherited ) wealth nor his earned riches have given him any benefit .",
+        "ur": "اسے اس کے موروثی مال نے کچھ فائدہ نہ پہنچایا اور نہ ہی اس کی کمائی نے ۔"
+    },
+    "182": {
+        "en": "Soon he will tumble into the Flaming Fire .",
+        "ur": "عنقریب وہ شعلوں والی آگ میں جا پڑے گا ۔"
+    },
+    "183": {
+        "en": "And his ( damned , wretched ) wife ( too ) who carries ( on her head ) the burden of ( thorny ) twigs ( and spreads them in the way of Our Beloved , to injure his holy soles ) .",
+        "ur": "اور اس کی خبیث عورت بھی جو کانٹے دار لکڑیوں کا بوجھ سر پر اٹھائے پھرتی ہے ، اور ہمارے حبیب کے تلووں کو زخمی کرنے کے لئے رات کو ان کی راہوں میں بچھا دیتی ہے ۔"
+    },
+    "184": {
+        "en": "Around her neck will be ( the same ) palm - fibre rope ( which she uses to bind the bunch of thorny twigs ) .",
+        "ur": "اس کی گردن میں کھجور کی چھال کا وہی رسہ ہوگا جس سے کانٹوں کا گٹھا باندھتی ہے ۔"
+    },
+    "185": {
+        "en": "( O Esteemed Messenger ! ) Proclaim : He is Allah , Who is the One .",
+        "ur": "اے نبئ مکرم ! آپ فرما دیجئے : وہ اﷲ ہے جو یکتا ہے ۔"
+    },
+    "186": {
+        "en": "Allah is the Transcendent of all , the Protector and Far - Superior to all .",
+        "ur": "اﷲ سب سے بے نیاز ، سب کی پناہ اور سب پر فائق ہے ۔"
+    },
+    "187": {
+        "en": "He has not begotten any nor is He begotten .",
+        "ur": "نہ اس سے کوئی پیدا ہوا ہے اور نہ ہی وہ پیدا کیا گیا ہے ۔"
+    },
+    "188": {
+        "en": "Nor is there anyone equal to Him .",
+        "ur": "اور نہ ہی اس کا کوئی ہمسر ہے"
+    },
+    "189": {
+        "en": "Beseech : I seek refuge with the Lord Who brought ( the universe ) into existence with ( an ) explosion extremely fast .",
+        "ur": "آپ عرض کیجئے کہ میں ایک دھماکے سے انتہائی تیزی کے ساتھ کائنات کو وجود میں لانے والے رب کی پناہ مانگتا ہوں ۔"
+    },
+    "190": {
+        "en": "From the evil influence ( and harmfulness ) of everything that He has created .",
+        "ur": "ہر اس چیز کے شر اور نقصان سے جو اس نے پیدا فرمائی ہے ۔"
+    },
+    "191": {
+        "en": "And ( in particular ) from the evil of murky night when ( its ) darkness prevails .",
+        "ur": "اور بالخصوص اندھیری رات کے شر سے جب اس کی ظلمت چھا جائے ۔"
+    },
+    "192": {
+        "en": "And from the evil of those women ( and men ) who practise magic on knots by blowing .",
+        "ur": "اور گرہوں میں پھونک مارنے والی جادوگرنیوں اور جادوگروں کے شر سے ۔"
+    },
+    "193": {
+        "en": "And from the mischief of every one jealous when he feels jealous .",
+        "ur": "اور ہر حسد کرنے والے کے شر سے جب وہ حسد کرے"
+    },
+    "194": {
+        "en": "Beseech : I seek refuge with the Lord of ( the whole of ) mankind .",
+        "ur": "آپ عرض کیجئے کہ میں سب انسانوں کے رب کی پناہ مانگتا ہوں ۔"
+    },
+    "195": {
+        "en": "Who is the King of ( all ) mankind .",
+        "ur": "جو سب لوگوں کا بادشاہ ہے ۔"
+    },
+    "196": {
+        "en": "Who is the God of the ( whole ) human race .",
+        "ur": "جو ساری نسل انسانی کا معبود ہے ۔"
+    },
+    "197": {
+        "en": "From the evil of slinking whisperer ( Satan ) who hides himself withdrawing ( from the influence of Allahs remembrance ) .",
+        "ur": "وسوسہ انداز شیطان کے شر سے جو اﷲ کے ذکر کے اثر سے پیچھے ہٹ کر چھپ جانے والا ہے ۔"
+    },
+    "198": {
+        "en": "Who whispers into the hearts of mankind .",
+        "ur": "جو لوگوں کے دلوں میں وسوسہ ڈالتا ہے ۔"
+    },
+    "199": {
+        "en": "Whether he ( the whispering Satan ) comes from the jinn or mankind .",
+        "ur": "خواہ وہ وسوسہ انداز شیطان جنات میں سے ہو یا انسانوں میں سے ۔"
+    }
+}
